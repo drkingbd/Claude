@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/wrangler/config-schema.json",
-  "account_id": "85d0c02b57ed75faf9b18f92d5c01602",
+  "account_id": "416e839b834f8624b35fa085081bc0b7",
 
   "assets": {
     "directory": "public"
@@ -46,10 +46,10 @@
       "tag": "v1"
     }
   ],
-  "name": "anthropic-agent-patterns",
+  "name": "agent",
 
   "vars": {
-    "AI_GATEWAY_ACCOUNT_ID": "85d0c02b57ed75faf9b18f92d5c01602",
-    "AI_GATEWAY_ID": "anthropic-agent-patterns"
+    "AI_GATEWAY_ACCOUNT_ID": "416e839b834f8624b35fa085081bc0b7",
+    "AI_GATEWAY_ID": "agent"
   }
 }
