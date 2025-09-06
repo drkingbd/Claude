@@ -14,20 +14,20 @@
     "lint": "eslint . --ext .ts,.tsx"
   },
   "dependencies": {
-    "agents": "^0.1.0",
-    "ai": "^3.0.0",
-    "@ai-sdk/openai": "^0.1.0",
-    "zod": "^3.23.8",
-    "nanoid": "^5.1.5",
-    "chalk": "^5.3.0"
+    "agents": "latest",
+    "ai": "latest",
+    "@ai-sdk/openai": "latest",
+    "zod": "latest",
+    "nanoid": "latest",
+    "chalk": "latest"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240925.0",
-    "@cloudflare/vite-plugin": "^0.1.0",
+    "@cloudflare/vite-plugin": "latest",
     "typescript": "^5.6.3",
     "vite": "^5.4.0",
-    "wrangler": "^3.74.0",
-    "eslint": "^9.12.0",
+    "wrangler": "latest",
+    "eslint": "latest",
     "@typescript-eslint/eslint-plugin": "^8.11.0",
     "@typescript-eslint/parser": "^8.11.0"
   },
